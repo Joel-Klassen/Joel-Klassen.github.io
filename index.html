@@ -1,8 +1,13 @@
+--- 
+layout: default 
+title: Home
 ---
-layout: default
-title: Joel Klassen: Home
----
-<div class="blurb">
-	<h1>Hi there, I'm Joel Klassen!</h1>
-	<p>My webpage is currently under construction right now.</p>
-</div><!-- /.blurb -->
+<center> 
+	<a href = "{{ '/about/' | prepend: site.url }}">
+	<!-- <a href="{{ /about/ | prepend: site.baseurl }}"> -->
+	<img src="imgs/mugshotRound.png"
+		onmouseover="this.src='imgs/mugshotRoundText.png';" 
+		onmouseout="this.src='imgs/mugshotRound.png';"
+		style="width:500px;height:500px;"> 
+	</a>
+</center>

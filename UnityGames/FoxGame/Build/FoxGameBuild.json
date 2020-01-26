@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "toy box 1",
+"dataUrl": "FoxGameBuild.data.unityweb",
+"wasmCodeUrl": "FoxGameBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "FoxGameBuild.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
