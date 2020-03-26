@@ -18,7 +18,11 @@ Then go to http://localhost:4000
 
 If you put things in the _sites folder, they might get deleted!
 
-
+-------------------------------------
+On windows, open the shell
+cd to the website directory
+>bash
+then the above
 -------------------------------------
 USAGE GUIDE
 
