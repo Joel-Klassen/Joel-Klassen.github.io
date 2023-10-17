@@ -56,30 +56,30 @@ Finally, I find that the way dice rolling works means that you often get a spira
 
 ## Example Stances
 
-Aggressively -- +1 in opposed rolls, but -1  in injury rolls
-Defensively -- -1 in opposed rolls, but +1 in injury rolls
-Stealthily -- +1d6 in opposed rolls until your first lost dice, then -1 on opposed rolls from then on.
-Craftily -- -1d6 in opposed rolls until your first win, then +2 from then on.
-Boastfully -- -1 in opposed rolls, +1d6 reputation boon on victory
-Viciously --  -1 in opposed rolls, but opponent gets -1 on injury rolls
-Selfishly -- (may only be invoked in team combat) only teammates may take injuries, 1d6 reputation injury
-Selflessly -- (may only be invoked in team combat) only the leader may take injuries, 1d6 reputation boon
-Unscrupulously -- +1 in opposed rolls, automatic 1d6 reputation injury
-Mercifully -- opponent suffers no injuries, +1d6 reputation boon on victory
-Menacingly -- 
+- Aggressively -- +1 in opposed rolls, but -1  in injury rolls
+- Defensively -- -1 in opposed rolls, but +1 in injury rolls
+- Stealthily -- +1d6 in opposed rolls until your first lost dice, then -1 on opposed rolls from then on.
+- Craftily -- -1d6 in opposed rolls until your first win, then +2 from then on.
+- Boastfully -- -1 in opposed rolls, +1d6 reputation boon on victory
+- Viciously --  -1 in opposed rolls, but opponent gets -1 on injury rolls
+- Selfishly -- (may only be invoked in team combat) only teammates may take injuries, 1d6 reputation injury
+- Selflessly -- (may only be invoked in team combat) only the leader may take injuries, 1d6 reputation boon
+- Unscrupulously -- +1 in opposed rolls, automatic 1d6 reputation injury
+- Mercifully -- opponent suffers no injuries, +1d6 reputation boon on victory
+- Menacingly -- 
 
 possible other stances which depend on context
 
 ## Example Injury and Boon cliches
 
-Wealth
-Fear
-Reputation
-Influence
-Flesh Wound
-Panic
-Confidence
-Comradery
-Time
+- Wealth
+- Fear
+- Reputation
+- Influence
+- Flesh Wound
+- Panic
+- Confidence
+- Comradery
+- Time
 
 ## The Written Rules
